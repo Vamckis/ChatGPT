@@ -1,3 +1,4 @@
+
 # ChatGPT Prompts
 
 Syntax: Context - Task - Instruction - Example/DATA
@@ -16,9 +17,19 @@ Improve prompting: Chained prompting - Modify Output -
 - Summarise an article in 10 sentenses
 -  Write a personalised cold emails/ articles. - Use bing CHAT
 -  rewrite the email includimg the recent courses of the writer
--  
+-  Update your Linkdlin profile using your resume
+- As a creer advisor, rewrite my resume. Please trailor it to following job advert to maximise the chances of getting an job interview. Job description: <>. My Resume: <>. Did you understand?
+- Go through my resume and tell me which area to improve for a job. Give a three coulumn table with 
+- if word linit reached, write "continue where you left".
 
 
+- Data scientist: In Code interpretor, we can upoload files.
+- What can you do using above data?
+
+- Plugins:
+- Memes can ebe generated using MEME plugin
+- Ask your PDF: provide link and ask to summarize. Write top 5 points, I need to know. 
 ### AI websites
 - https://app.simplified.com/home
 - AI bing CHAT
+- Pheonix 

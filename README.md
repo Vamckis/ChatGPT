@@ -12,4 +12,13 @@ Moto: Can you write an email inviting people fot chatgpt session?
 - Add some emojies and sentence not longer than 200 words.
 - Make a variation for tech audience, add examples
 
-Chained prompting - Modify Output - 
+Improve prompting: Chained prompting - Modify Output - 
+- Summarise an article in 10 sentenses
+-  Write a personalised cold emails/ articles. - Use bing CHAT
+-  rewrite the email includimg the recent courses of the writer
+-  
+
+
+### AI websites
+- https://app.simplified.com/home
+- AI bing CHAT

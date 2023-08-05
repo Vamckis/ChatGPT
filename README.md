@@ -29,7 +29,17 @@ Improve prompting: Chained prompting - Modify Output -
 - Plugins:
 - Memes can ebe generated using MEME plugin
 - Ask your PDF: provide link and ask to summarize. Write top 5 points, I need to know. 
+
 ### AI websites
 - https://app.simplified.com/home
 - AI bing CHAT
-- Pheonix 
+- discord / Midjourney
+- promptbase.com - sell our prompts
+- Wisdolia -  AI Quiz master. upload article and create a quiz.
+- tommy.ai - create slides
+- descript - video to text - edit video like text
+- create a bot - go.com
+
+### Mid jpourney
+/imagine promt photorealistic image of snoopdog in indian attair looking into camera.
+u1

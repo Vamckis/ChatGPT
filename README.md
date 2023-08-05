@@ -39,6 +39,7 @@ Improve prompting: Chained prompting - Modify Output -
 - tommy.ai - create slides
 - descript - video to text - edit video like text
 - create a bot - go.com
+- fidly
 
 ### Mid jpourney
 /imagine promt photorealistic image of snoopdog in indian attair looking into camera.

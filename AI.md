@@ -16,3 +16,6 @@
   - Output layer
 - With increse in hidden layer, complex models can be built.
 - Word `Deep` refers to large number of hidden layers in networks.
+- With Artifical Neural Network accuracy incresed to 90%.
+- Below illustrates the differnt networks:
+<img width="1060" alt="Screenshot 2023-11-06 at 11 16 06 AM" src="https://github.com/Vamckis/ChatGPT/assets/71128825/9091351e-1b2b-4c2f-b0d8-a7742837bce0">

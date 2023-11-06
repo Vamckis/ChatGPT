@@ -1,8 +1,20 @@
+AI first Startegies benefits:
+- Operational efficiency
+- faster decisions
+- Error reduction
+- Process acceleration
+- Workflow improvement
+  
 ## Learning Techiques:
 - Zero Shot: prompt without examples.
 - One Shot: Exactly one example.
 - Few Shot: more than one example in prompt.
 
+### Temperature vs Top_P:
+- Temperature controls creativity or randomness.
+  - 0.7 = more diverse and creative
+  - 0.2 = more deterministic and focused
+- Top_p is alterntive to temperature. Insted of considering all possible tokens, GPT-3 uses a subset of tokens whose cumulatie probability mass adds uo to a certain threshold (top_p)
 ## ChatGPT Prompts
 As on Jan 2023, OpenAI models are as below:
 - `text-davinci-003` provide text completions

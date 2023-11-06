@@ -4,9 +4,13 @@
 - Few Shot: more than one example in prompt.
 
 ## ChatGPT Prompts
+As on Jan 2023, OpenAI models are as below:
+- `text-davinci-003` provide text completions
+- `code-davinci-002` provide code completions
+
 Syntax: Context - Task - Instruction - Example/DATA
 
-Moto: Can you write an email inviting people fot chatgpt session?
+Motiv: Can you write an email inviting people fot chatgpt session?
 - Context: You are an expereince email copywriter who has written for btrands like under, ogilvy etc
 - Task: Write a launch emial fror a new workshop
 - Instruction: design for audience above 22+ working in tech, marketing. Include hacks, tools and propmt colections

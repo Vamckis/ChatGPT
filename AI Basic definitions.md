@@ -23,14 +23,25 @@
   - Document summarization
   - Context extraction
 - E.g: chatbots on websites, IVR based Customer care (Interactive Voice Response)
-- NLP has
+- NLP has 2 components:
   - Natural Language understanding : To analyse spoken and written language.
   - Natural Language Generation: To generate responses.
  
-  ## Pre-Trained Models vs Large Language Models
-  - Pre-Trained Models are Machine learning models trained for specific purpose.
-    - e.g: GPT, BLOOM, BERT are pre-trained Text models
-    - e.g: AlexNet, GoogLeNet, OpenCV, Detectron2 are pre-trained image models.
-  - Large Language Models (LLMs) ate Deep learning Models trained on huge corpus of data, thousands of GBs.
-    - They can Summarize text, translate text, predixt text completion, generate code, explain code etc
-    - e.g: Chat GPT-3
+  ## Large Language Models (LLMs)
+- Pre-Trained Models are Machine learning models trained for specific purpose.
+  - e.g: GPT, GPT-J, BLOOM, BERT are pre-trained Text models
+  - e.g: AlexNet, GoogLeNet, OpenCV, Detectron2 are pre-trained image models.
+- Large Language Models (LLMs) are Deep learning Models trained on huge corpus of data, thousands of GBs. They are neural networks with billions of parameters.
+   - They can Summarize text, translate text, predixt text completion, generate code, explain code etc
+   - e.g: Chat GPT-3 (It has 175 billions parameters, trained over 45TB of data), GPT-3.5, GPT-4.
+   - e.g: Cohere Platform offers Generative language model and Representation language model.
+   - e.g: M-TNLG (Megatron-Turing Natural Language Generation) had 530 billion aparameters developed by NVIDIA and Microsoft.
+   - e.g: GPT-Neo, GPT-J, GPT-NeoX. These are traind on 825 GB of Pile dataset (Open Source language modelling dataset). These models work well when provided with few examples.
+- Uses of LLMs:
+  - Generate
+  - Classify
+  - Summarise
+  - Rewrite
+  - Search
+  - Extract
+  <img width="829" alt="Screenshot 2023-11-06 at 12 02 59 PM" src="https://github.com/Vamckis/Prompt-Engineering/assets/71128825/caec7213-2643-4557-bd6c-7a9143b4bca9">
